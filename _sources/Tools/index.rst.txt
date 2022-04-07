@@ -1,0 +1,29 @@
+Tooools
+========
+
+.. toctree::
+   :maxdepth: 2
+
+Introduction
+-------------
+This part is for practical things, like knowledge, methods or works.
+
+(还没想好写什么，whatever，20220407)
+
+
+Sphinx
+-------
+“怪物长着两对巨型的翅膀，上面覆盖着金属般的鳞片，其体态之大远超过迄今见过的巨型战舰。”
+
+“Sphinx is a tool that makes it easy to create intelligent and beautiful documentation written by Georg Brandl and licensed under the BSD licence.”
+
+Sphinx官网介绍：`document <https://www.sphinx-doc.org/en/master/>`_
+
+Sphinx搭建个人文档系统步骤：`procedures <https://zhuanlan.zhihu.com/p/384863296>`_
+
+
+
+
+
+
+
